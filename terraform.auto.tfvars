@@ -12,4 +12,8 @@ modules_registry = {
     repo_identifier = "cgsyam-ghe-org/terraform-org-platform-onboard"
     tags            = true
   }
+  "init_core_workflow_module" = {
+    repo_identifier = "cgsyam-ghe-org/init-core-workflow"
+    tags            = true
+  }
 }
